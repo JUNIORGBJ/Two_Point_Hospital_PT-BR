@@ -21,9 +21,9 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## :small_blue_diamond:Instalação
 
-- **SXOS:** Colar a pasta ```SXOS``` dentro do MicroSD e iniciar o jogo normalmente.
+- **SXOS:** Colar a pasta ```010031200E044000``` dentro do caminho ```Microsd\sxos\titles``` e iniciar o jogo normalmente.
 
-- **ATMOSPHERE:** Colar a pasta ```ATMOSPHERE``` dentro do MicroSD e iniciar o jogo normalmente.
+- **ATMOSPHERE:** Colar a pasta ```010031200E044000``` dentro do caminho ```Microsd\atmosphere\contents``` e iniciar o jogo normalmente.
 
 ## :small_blue_diamond:Ferramentas Ultilizadas
 
