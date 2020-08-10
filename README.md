@@ -1,6 +1,6 @@
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-c14438?style=flat&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
 <h1 align="center"><figure>
-  <img src="Crysis.Remastered.png">
+  <img src="Two.Point.Hospital.png">
 </figure></h1>
 
 
