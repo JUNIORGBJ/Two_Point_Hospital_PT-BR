@@ -29,7 +29,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 ## :small_blue_diamond:Ferramentas Ultilizadas
 
 :link: [Unity Assets Bundle Extractor](https://github.com/DerPopo/UABE)
-:link: [UnityText]
+:link: [UnityText](https://yadi.sk/d/G0BB91GvHynVhw)
 :link: [Visual Studio Code](https://code.visualstudio.com)
 
 ## :small_blue_diamond:Doações
